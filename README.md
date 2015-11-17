@@ -1,1 +1,3 @@
 #Computer_Network
+這是一個同時多人的聊天室
+用Python實作
